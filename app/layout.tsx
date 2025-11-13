@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import "./../";
+import "../styles/index.css";
 
 export const metadata: Metadata = {
   title: "IRIS Exam Platform",
